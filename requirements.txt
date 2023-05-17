@@ -1,0 +1,6 @@
+tabulate
+chinese_calendar
+openpyxl
+jupyter_dash
+dash
+plotly==5.5.0

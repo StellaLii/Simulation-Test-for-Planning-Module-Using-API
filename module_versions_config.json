@@ -1,0 +1,21 @@
+{
+  "SIMULATION_VERSION": "deeproute-simulation-dev=2.3.1",
+  "GRADING_VERSION": "deeproute-grading-dev=2.3.1",
+  "CTRL_VERSION": "deeproute-ctrl-dev=1.8.6",
+  "INFERENCE_ENGINE_VERSION": "deeproute-inference-engine-dev=1.1.6",
+  "GRPC_VERSION": "deeproute-grpc-dev=1.37.2",
+  "CAR_CONFIG_VERSION": "deeproute-car-config-test-planning-dev=1.14.2",
+  "ABSL_VERSION": "deeproute-absl-dev=1.1.0",
+  "S2GEOMETRY_VERSION": "deeproute-s2geometry-dev=1.0.0",
+  "OS_INTERFACE_VERSION": "deeproute-os-interface-dev=1.0.18",
+  "COMPARE_VERSION": "deeproute-planning-prediction-snapshot=0.60.1-20220614033257",
+  "CHOLMOD_VERSION": "libcholmod3",
+  "CXSPARSE_VERSION": "libcxsparse3",
+  "PREDICTION_MODEL_VERSION": "deeproute-onboard-percep-prediction-model-dev",
+  "COMMON_PROTOCOL_VERSION": "deeproute-common-protocol-dev=2.0.3",
+  "ADDITIONAL_MODULES": "",
+  "SCENARIOS_REPO": "scenarios/",
+  "SCENARIOS_BRANCH": "master",
+  "SCENARIOS_COMMIT_ID": "",
+  "BASELINE_PLANNING_PREDICTION_VERSIONS": []
+}
